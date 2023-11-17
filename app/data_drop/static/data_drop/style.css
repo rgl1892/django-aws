@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(104, 246, 104,0.1);
+}
+
+.container {
+    display: flex;
+    width: 200px;
+    flex-direction: column;    
+}
+.form-detail {
+    width: 200px;
+    padding: 2px;
+    margin: 2px
+}
